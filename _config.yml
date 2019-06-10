@@ -22,7 +22,7 @@ baseurl: "/" # the subpath of your site, e.g. /blog
 url: "https://yuniq.tech" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  yuniq-neko
 instagram_username: speshialy
-linkedin_username: caleb-fraser-b2936116a
+linkedin_username: caleb-fraser
 rss: feed.xml
 
 # Build settings
