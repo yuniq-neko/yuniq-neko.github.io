@@ -13,16 +13,14 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Your awesome title
-email: your-email@example.com
+title: Yuniq's Tech Blog
 description: >- # this means to ignore newlines until "baseurl:"
-  Write an awesome description for your new site here. You can edit this
-  line in _config.yml. It will appear in your document head meta (for
-  Google search results) and in your feed.xml site description.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
-twitter_username: jekyllrb
-github_username:  jekyll
+  Welcome to my tech blog, I occasionally will post here
+  about different things that I am working on, and even
+  sometimes just be sharing something I might find interesting.
+baseurl: "/" # the subpath of your site, e.g. /blog
+url: "https://yuniq.tech" # the base hostname & protocol for your site, e.g. http://example.com
+github_username:  yuniq-neko
 
 # Build settings
 markdown: kramdown
