@@ -24,6 +24,7 @@ github_username:  yuniq-neko
 instagram_username: speshialy
 linkedin_username: caleb-fraser
 rss: feed.xml
+google_analytics: UA-147058042-1
 
 # Build settings
 markdown: kramdown
