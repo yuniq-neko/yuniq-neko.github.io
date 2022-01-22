@@ -1,0 +1,3 @@
+[submodule "phonetic-html-js"]
+	path = phonetic-html-js
+	url = https://github.com/yuniq-neko/phonetic-html-js
